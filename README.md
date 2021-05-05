@@ -28,6 +28,6 @@ This is a Open-Source-AppStore from Saasmull where you can download free apps.
     }
 ```
 This will installs an .apk-File on Android.
-```java:CodeParts/install-apk.java
- 
+```java
+#CodeParts/install-apk.java
 ```
