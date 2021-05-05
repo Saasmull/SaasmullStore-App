@@ -2,6 +2,10 @@
 
 This is a Open-Source-AppStore from Saasmull where you can download free apps.
 
+# Installation
+
+This will installs an .apk-File on Android
+
 ```java
     //define the path
     path = "storage/emulated/0/folder/app.apk";
@@ -26,8 +30,4 @@ This is a Open-Source-AppStore from Saasmull where you can download free apps.
         startActivity(intent);
       }
     }
-```
-This will installs an .apk-File on Android.
-```java
-#CodeParts/install-apk.java
 ```
