@@ -16,7 +16,7 @@ This will installs an .apk-File on Android
     path = "storage/emulated/0/folder/app.apk";
     
     //check SDK for both installations
-    if(android.os.Build.VERSION.SDK_INT < 26 | android.os.Build.VERSION.SDK_INT > 29){
+    if(android.os.Build.VERSION.SDK_INT < 26){
       //install for Android 7.1/SDK 25 and <
       StrictMode.setVmPolicy(new StrictMode.VmPolicy.Builder().build());
       Intent intent = new Intent(Intent.ACTION_VIEW);
