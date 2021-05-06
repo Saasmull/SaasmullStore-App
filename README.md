@@ -2,6 +2,11 @@
 
 This is a Open-Source-AppStore from Saasmull where you can download free apps.
 
+This AppStore contains:
+- a online database
+- a nightmode
+- a easy install methode
+
 # Installation
 
 This will installs an .apk-File on Android
